@@ -1,0 +1,23 @@
+{
+  "title": "StandardImageList Material Demo",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "name": "69597992-how-to-implement-horizontal-scrolling-of-tiles-of-react-material-ui-gridlist-com",
+  "main": "index.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/v5.0.4/docs/src/pages/components/image-list/StandardImageList.tsx",
+  "dependencies": {
+    "typescript": "latest",
+    "react-dom": "latest",
+    "react": "latest",
+    "@types/react-dom": "latest",
+    "@types/react": "latest",
+    "@mui/material": "latest",
+    "@emotion/styled": "latest",
+    "@emotion/react": "latest"
+  },
+  "keywords": []
+}
